@@ -1,7 +1,11 @@
-[
-    {
-        "created": 1760104492,
-        "name": "ctiru.dat",
-        "checksum": "E0FFAE6E76D1691A2E5D16FB60864D22"
-    }
-]
+{
+    "module": "ctiru",
+    "format": "dat",
+    "created": "2025-10-15T13:58:27.752455",
+    "files": [
+        {
+            "name": "ctiru.dat",
+            "checksum": "DA695A7EBE66EC2755C4011F0C9474A4"
+        }
+    ]
+}
